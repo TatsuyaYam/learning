@@ -1,0 +1,9 @@
+{
+	"name": "oedo",
+	"location": "japanwest",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "558fc381-99a2-4b7d-8c97-b0f971fdf6b7",
+		"tenantId": "89fdc9c1-a0a5-4914-bcef-af8e7608ad57"
+	}
+}
